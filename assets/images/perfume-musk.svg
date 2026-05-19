@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" role="img" aria-label="White musk perfume bottle">
+  <defs>
+    <linearGradient id="bg3" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0f0f0f"/><stop offset="1" stop-color="#252525"/></linearGradient>
+    <linearGradient id="soft" x1="0" x2="1"><stop stop-color="#232323"/><stop offset=".5" stop-color="#d8c08c"/><stop offset="1" stop-color="#101010"/></linearGradient>
+    <linearGradient id="gold3" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff1c7"/><stop offset=".55" stop-color="#d8c08c"/><stop offset="1" stop-color="#8a682d"/></linearGradient>
+  </defs>
+  <rect width="640" height="760" fill="url(#bg3)"/>
+  <rect x="105" y="115" width="430" height="530" rx="210" fill="#fff" opacity=".04"/>
+  <path d="M284 150h72v86h-72z" fill="url(#gold3)"/>
+  <path d="M244 94h152v70H244z" fill="#151515" stroke="url(#gold3)" stroke-width="6"/>
+  <rect x="180" y="230" width="280" height="390" rx="22" fill="url(#soft)" stroke="url(#gold3)" stroke-width="5"/>
+  <rect x="228" y="338" width="184" height="150" rx="70" fill="#0f0f0f" stroke="#f4dfaa" stroke-width="2"/>
+  <text x="320" y="410" text-anchor="middle" fill="#f7f1e4" font-family="Georgia, serif" font-size="34" letter-spacing="4">MUSK</text>
+  <text x="320" y="446" text-anchor="middle" fill="#d8c08c" font-family="Arial, sans-serif" font-size="13" letter-spacing="4">SIGNATURE</text>
+  <ellipse cx="320" cy="650" rx="175" ry="25" fill="#000" opacity=".45"/>
+</svg>
